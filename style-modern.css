@@ -90,8 +90,8 @@ img {
 }
 
 .site-logo {
-  width: clamp(52px, 9vw, 76px);
-  height: clamp(52px, 9vw, 76px);
+  width: clamp(52px, 19vw, 176px);
+  height: clamp(52px, 19vw, 176px);
   object-fit: cover;
   border-radius: 16px;
   box-shadow: 0 10px 22px rgba(36, 74, 120, 0.14);
